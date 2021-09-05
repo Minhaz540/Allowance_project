@@ -14,7 +14,7 @@
     --login-color: #49e349;
     --txt-color: whitesmoke;
     --border-color: #161f36;
-    --table-border: rgb(58, 58, 58);
+    --table-border: rgb(105, 105, 105);
 }
 .mainBody {
     background-image: url("../images/bgimage.jpg");
